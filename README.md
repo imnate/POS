@@ -26,7 +26,18 @@
 <img src ="img/StaffMangement.jpg" width = 700>
 </p>
 
-## 打卡管理頁面
+## 打卡資料查詢頁面
 <p align="center">
 <img src ="img/workinghour.jpg" width = 700>
 </p>
+
+## 帳號權限管理頁面
+<p align="center">
+<img src ="img/auth.jpg" width = 700>
+</p>
+
+## 打卡管理頁面
+<p align="center">
+<img src ="img/punch.jpg" width = 700>
+</p>
+
