@@ -13,20 +13,20 @@
 
 ## 顧客頁面
 <p align="center">
-<img src ="img/customerpage.jpg" width = 400>
+<img src ="img/customerpage.jpg" width = 700>
 </p>
 
 ## 新增客戶頁面
 <p align="center">
-<img src ="img/Newcustomer.jpg" width = 400>
+<img src ="img/Newcustomer.jpg" width = 700>
 </p>
 
 ## 員工管理頁面
 <p align="center">
-<img src ="img/StaffMangement.jpg" width = 400>
+<img src ="img/StaffMangement.jpg" width = 700>
 </p>
 
 ## 打卡管理頁面
 <p align="center">
-<img src ="img/workinghour.jpg" width = 400>
+<img src ="img/workinghour.jpg" width = 700>
 </p>
