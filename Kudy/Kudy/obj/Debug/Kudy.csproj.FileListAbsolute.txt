@@ -1,0 +1,40 @@
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\bin\Debug\Kudy.exe.config
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\bin\Debug\Kudy.exe
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\bin\Debug\Kudy.pdb
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\obj\Debug\Kudy.Check_Form.resources
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\obj\Debug\Kudy.Customer_Form.resources
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\obj\Debug\Kudy.Form_Login.resources
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\obj\Debug\Kudy.index_Form.resources
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\obj\Debug\Kudy.New_Acc_Form.resources
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\obj\Debug\Kudy.Properties.Resources.resources
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\obj\Debug\Kudy.View_Work.resources
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\obj\Debug\Kudy.csproj.GenerateResource.Cache
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\obj\Debug\Kudy.exe
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\obj\Debug\Kudy.pdb
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\obj\Debug\Kudy.csprojResolveAssemblyReference.cache
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\obj\Debug\Kudy.permission.resources
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\bin\Debug\Kudy.exe.manifest
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\bin\Debug\Kudy.application
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\obj\Debug\Kudy.exe.manifest
+C:\Users\ImNaTE\documents\visual studio 2013\Projects\Kudy\Kudy\obj\Debug\Kudy.application
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\obj\Debug\Kudy.csprojAssemblyReference.cache
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\obj\Debug\Kudy.Check_Form.resources
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\obj\Debug\Kudy.Customer_Form.resources
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\obj\Debug\Kudy.Form_Login.resources
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\obj\Debug\Kudy.index_Form.resources
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\obj\Debug\Kudy.New_Acc_Form.resources
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\obj\Debug\Kudy.permission.resources
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\obj\Debug\Kudy.Properties.Resources.resources
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\obj\Debug\Kudy.View_Work.resources
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\obj\Debug\Kudy.csproj.GenerateResource.cache
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\obj\Debug\Kudy.csproj.CoreCompileInputs.cache
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\obj\Debug\Kudy.exe
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\obj\Debug\Kudy.pdb
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\obj\Debug\Kudy.csproj.ResolveComReference.cache
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\bin\Debug\Kudy.exe.config
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\bin\Debug\Kudy.exe.manifest
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\bin\Debug\Kudy.application
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\bin\Debug\Kudy.exe
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\bin\Debug\Kudy.pdb
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\obj\Debug\Kudy.exe.manifest
+C:\Users\gogx1\Desktop\Github\POS_KudyRestaurant\Kudy\Kudy\obj\Debug\Kudy.application
