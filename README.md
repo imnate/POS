@@ -5,7 +5,14 @@
         2.顧客用餐歷史
         3.管理上下班時數
         4.管理員工上班時數
-    
+
+### 語言
+        C#
+         
+### 資料庫
+        Access
+         
+
 ## 首頁
 <p align="center">
 <img src ="img/index.jpg" width = 400>
